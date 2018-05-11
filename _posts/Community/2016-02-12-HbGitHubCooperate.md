@@ -12,8 +12,9 @@ category: community
 注意：
 
 - 若不了解 GitHub 是什么，请先移步 GitHub 基础教程：
-	+ [GitHub Guides](https://guides.github.com/)
-	+ [GitHub Training & Guides - YouTube](https://www.youtube.com/githubguides)
+	+ [简明 GitHub 练级攻略](https://github.com/OpenMindClub/Share/wiki/HbGitHub) ：我写的非技术人员 GitHub 使用指南
+	+ [GitHub Guides](https://guides.github.com/)：官方图文版科普
+	+ [GitHub Training & Guides - YouTube](https://www.youtube.com/githubguides)：官方视频版教程
 - 本文所列建议主要针对非技术协作的知识管理型团队，如果你对所在团队是否是知识管理型团队无所谓，这篇文章不必往下看了;-)
 
 
@@ -263,6 +264,7 @@ Anyway，欢迎看到这篇文章的你也和我分享实践经验，一起探�
 
 ## CHANGELOG 
 
+- 180511 增补自己写的 GitHub 教程链接
 - 171203 更新 GitHub 教程、后记，优化表达 2h
 - 160212 完善配图 Blog 发布
 - 160122 [在 WorkFlowy 起草](https://workflowy.com/s/ipYERU9UbH)
